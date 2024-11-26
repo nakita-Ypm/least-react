@@ -1,0 +1,9 @@
+{
+  "name": "least-react",
+  "scripts": {
+    "fmt": "pnpm biome format --write ./"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  }
+}
