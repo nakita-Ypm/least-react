@@ -1,3 +1,6 @@
 node_modules
 .pnpm-store
 pnpm-lock.yaml
+tsconfig.tsbuildinfo
+dist
+routeTree.gen.ts
