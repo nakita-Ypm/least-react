@@ -3,3 +3,6 @@ deps:
 	
 run:
 	pnpm -F @apps/least_react run dev
+
+build:
+	pnpm -F @apps/least_react run build
