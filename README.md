@@ -18,3 +18,9 @@ make run
 ```
 http://localhost:5173/
 ```
+
+## Build
+
+```
+make build
+```
